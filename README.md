@@ -1,3 +1,3 @@
 #Header
 
-This is the offline version
+I didnt follow the appropriate instruction sthe first time so this is what we do now 
