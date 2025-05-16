@@ -1,3 +1,3 @@
 #Header
 
-This is the offline versiomye
+This is the offline version
